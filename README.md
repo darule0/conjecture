@@ -2,24 +2,13 @@
 A python library of mathematical conjectures.
 
 ## Motivation
-Mathematical conjectures are deemed "unproven" by conventional means. Many are proven
-by example and rigorous bounds testing. Many have numerous practical applications. 
-The purpose of conjecture.py is to be a self contained single file (when possible)
-python library which attempts to provide an implementation of all mathematical 
-conjectures for use in python programs.
+Mathematical conjectures are deemed "unproven" by conventional means. Many are proven by example and rigorous bounds testing. Many have numerous practical applications. The purpose of conjecture.py is to be a self contained single file (when possible) python library which attempts to provide an implementation of all mathematical conjectures for use in python programs.
 
 ## Coding standards
- - Please use 4 spaces for each indentation
-
- - Please attmept to implement the entire function 
-   directly in conjecture.py when possible. Referecing
-   an external dependancy or another githup project also OK.
-   
- - Please also update this README.md with an example of
-   how to use the added conjecture interface.
-   
- - Please feel free to add any missing conjectures in 
-   alphabetical order when possible.
+    - Please use 4 spaces for each indentation
+    - Please attempt to implement the entire function directly in conjecture.py when possible. Referencing an external dependency or another githup project also OK.
+    - Please also update this README.md with an example of how to use the added conjecture interface.
+    - Please feel free to add any missing conjectures in alphabetical order when possible.
 
 ## Conjectures
 
