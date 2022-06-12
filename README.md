@@ -1,4 +1,4 @@
-# conjecture
+# conjecture.py
 A python library of mathematical conjectures.
 
 ## Motivation
